@@ -3,7 +3,6 @@
 I build AI products and the tooling around them.
 Software engineering grad (SWJTU '26), heavy AI user since GPT-3.
 
-- 🤖 Co-founded **SuperAI**, a multi-model AI assistant on Telegram — 800K+ users, acquired in 2026
 - 🔀 Designed routing for an LLM API gateway (channel groups, weights, priority, timeout circuit breaking) — weights & priority later landed in [New API](https://github.com/QuantumNous/new-api)
 - 🧠 These days: Claude Code mods, autonomous agent loops, MCP tools
 
