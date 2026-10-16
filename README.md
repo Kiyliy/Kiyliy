@@ -3,7 +3,6 @@
 I build AI products and the tooling around them.
 Software engineering grad (SWJTU '26), heavy AI user since GPT-3.
 
-- 🔀 Designed routing for an LLM API gateway (channel groups, weights, priority, timeout circuit breaking) — weights & priority later landed in [New API](https://github.com/QuantumNous/new-api)
 - 🧠 These days: Claude Code mods, autonomous agent loops, MCP tools
 
 #### 🛠 Things I've built
